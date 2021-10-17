@@ -26,3 +26,6 @@ proxyPassword = "etix1sir1snp"
 # proxy info
 httpProxy = "34123412341234123"
 httpPort = "8080"
+
+# failed profile
+failedProfile = {}
